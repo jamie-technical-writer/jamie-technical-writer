@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamie-technical-writer
-- 👀 I’m interested in learning new authoring technologies! 
-- 🌱 I’m currently learning deepening my familiarity with Git and GitHub!
+- 👀 I’m interested in new authoring technologies! 
+- 🌱 I’m currently learning Git and GitHub!
 - 💞️ I’m looking to collaborate on cybersecurity- and cloud-related repositories. 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have run two half marathons.
